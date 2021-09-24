@@ -40,13 +40,13 @@
 
 
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/jamesmy
 [course]: https://github.com/jamesmy/warehouse
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitter]: https://github.com/jamesmy
+[youtube]: https://github.com/jamesmy
+[instagram]: https://github.com/jamesmy
+[linkedin]: https://github.com/jamesmy
+[webdevplaylist]: https://github.com/jamesmy
+[jsplaylist]: https://github.com/jamesmy
+[cssplaylist]: https://github.com/jamesmy
+[reactplaylist]: https://github.com/jamesmy
