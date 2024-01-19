@@ -1,14 +1,14 @@
-### Hi there, I'm JA - EM  👋
+### Hi there, I'm James  👋
 
 
 
-## I'm a Full-Stack Developer!!
+## I'm a Backend Developer!!
 
 - 🔭 I just launched my first course: [Ware House][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen music and read book
+- ⚡ Fun fact: I love listening music and read a book
 
 
 
